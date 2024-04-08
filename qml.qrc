@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/edit">
+        <file>AboutDialog.qml</file>
+        <file>AboutDialogForm.qml</file>
+        <file>ColorPicker.qml</file>
+        <file>DonePage.qml</file>
+        <file>DonePageForm.qml</file>
+        <file>MainPage.qml</file>
+        <file>MainPageForm.qml</file>
+        <file>TaskListDelegateModel.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>back.png</file>
+        <file>delete.png</file>
+        <file>write.png</file>
+        <file>enter.png</file>
+        <file>photo-1557682250-33bd709cbe85.jpeg</file>
+        <file>pomodoro.qml</file>
+        <file>profile.qml</file>
+    </qresource>
+</RCC>
